@@ -7,7 +7,8 @@
 
 2. 执行以下命令
 ```bash
-git clone https://github.com/rectcircle/albert-plugins.git "~/.local/share/albert/org.albert.extension.python/modules"
+git clone https://github.com/rectcircle/albert-plugins.git
+mv albert-plugins/* ~/.local/share/albert/org.albert.extension.python/modules/
 ```
 
 
