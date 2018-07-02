@@ -1,4 +1,4 @@
-## albert python插件
+## albert python 翻译插件
 
 ### 安装
 
@@ -7,10 +7,11 @@
 
 2. 执行以下命令
 ```bash
-git clone https://github.com/rectcircle/albert-plugins.git
-mv albert-plugins/* ~/.local/share/albert/org.albert.extension.python/modules/
+git clone https://github.com/rectcircle/albert-plugin-translation.git
+mv albert-plugin-translation/* ~/.local/share/albert/org.albert.extension.python/modules/
 ```
 
+3. 打开albert设置，Extensions标签，勾选`Python`，勾选`中英翻译`
 
 ### 介绍
 
